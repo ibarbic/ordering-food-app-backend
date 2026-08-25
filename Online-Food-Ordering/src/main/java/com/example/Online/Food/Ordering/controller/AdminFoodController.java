@@ -28,7 +28,7 @@ public class AdminFoodController {
     private RestaurantService restaurantService;
 
 
-    @PostMapping
+    @PostMapping("/create")
     public ResponseEntity<Food> createFood(@RequestBody CreateFoodRequest req,
                                            @RequestHeader("Authorization") String jwt) throws Exception {
 
