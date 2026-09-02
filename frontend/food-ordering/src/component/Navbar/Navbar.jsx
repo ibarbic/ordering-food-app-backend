@@ -3,6 +3,8 @@ import SearchIcon from '@mui/icons-material/Search';
 import { Avatar } from '@mui/material';
 import IconButton from '@mui/material/IconButton';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
+import {Badge} from '@mui/material';
+import './Navbar.css'
 
 export default function Navbar() {
   return (
@@ -32,7 +34,10 @@ export default function Navbar() {
 
             <div>
                 <IconButton>
-                    <ShoppingCartIcon sx={{fontSize: '1.5rem'}}/> 
+                    <Badge color = "primary" badgeContent={3} sx={{color: 'white'}}>
+                        <ShoppingCartIcon sx={{fontSize: '1.5rem'}}/> 
+                    </Badge>
+                    
                 </IconButton>
             </div>
 

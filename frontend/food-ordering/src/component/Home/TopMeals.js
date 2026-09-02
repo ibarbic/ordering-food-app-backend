@@ -1,0 +1,55 @@
+export const TopMeals = [
+    {
+        image:"https://images.pexels.com/photos/31596394/pexels-photo-31596394.jpeg",
+        title:"Pizza",
+    },
+    {
+        image:"https://images.pexels.com/photos/4315148/pexels-photo-4315148.jpeg",
+        title:"Burger",
+    },
+    {
+        image:"https://images.pexels.com/photos/31637791/pexels-photo-31637791.jpeg",
+        title:"Pasta",
+    },
+    {
+        image:"https://images.pexels.com/photos/842545/pexels-photo-842545.jpeg",
+        title:"Salad",
+    },
+    {
+        image:"https://images.pexels.com/photos/17894247/pexels-photo-17894247.jpeg",
+        title:"Sushi",
+    },
+    {
+        image:"https://images.pexels.com/photos/14766281/pexels-photo-14766281.jpeg",
+        title:"Dessert",
+    },
+    {
+        image:"https://images.pexels.com/photos/18574183/pexels-photo-18574183.jpeg",
+        title:"Taco",
+    },
+    {
+        image:"https://images.pexels.com/photos/18563182/pexels-photo-18563182.jpeg",
+        title:"Steak",
+    },
+    {
+        image:"https://images.pexels.com/photos/16845479/pexels-photo-16845479.jpeg",
+        title:"Salmon",
+    },
+    {
+        image:"https://images.pexels.com/photos/28735384/pexels-photo-28735384.jpeg",
+        title:"Ice Cream",
+    },
+    {
+        image:"https://images.pexels.com/photos/6416558/pexels-photo-6416558.jpeg",
+        title:"Sandwich",
+    },
+    {
+        image:"https://images.pexels.com/photos/35993710/pexels-photo-35993710.jpeg",
+        title:"Soup",
+    },
+    {
+        image:"https://images.pexels.com/photos/29150162/pexels-photo-29150162.jpeg",
+        title:"Fries",
+    }, 
+    
+]
